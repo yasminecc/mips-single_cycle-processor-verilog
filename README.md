@@ -6,7 +6,7 @@ All modules were tested using individual Verilog testbenches and simulated using
 
 ---
 
-## 🧠 Features
+##  Features
 
 - **R-type and I-type instruction support**
 - Modular design of datapath components:
@@ -21,7 +21,7 @@ All modules were tested using individual Verilog testbenches and simulated using
 
 ---
 
-## 🗂 File Structure
+##  File Structure
 
 | File                | Description                                      |
 |---------------------|--------------------------------------------------|
@@ -40,7 +40,7 @@ All modules were tested using individual Verilog testbenches and simulated using
 
 ---
 
-## ▶️ How to Simulate
+##  How to Simulate
 
 Run the modules using ModelSim or any Verilog simulator:
 
@@ -54,7 +54,7 @@ Or simulate components individually with their testbenches.
 
 ---
 
-## 🧾 Report
+##  Report
 
 See `Yasmine_Elsisi_yme2013_lab_4.pdf` for:
 - Instruction breakdown
@@ -63,8 +63,7 @@ See `Yasmine_Elsisi_yme2013_lab_4.pdf` for:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Yasmine Elsisi**  
-Computer Engineering @ NYU Abu Dhabi  
-[GitHub](https://github.com/YasmineElsisi)
+
